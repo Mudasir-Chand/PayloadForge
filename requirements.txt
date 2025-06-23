@@ -1,0 +1,3 @@
+pyperclip
+fpdf2
+jinja2
